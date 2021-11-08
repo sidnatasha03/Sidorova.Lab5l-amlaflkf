@@ -1,0 +1,16 @@
+D:\вижуал\Sidorova.Lab5\bin\Debug\net6.0\Sidorova.Lab5.Exercise1.exe
+D:\вижуал\Sidorova.Lab5\bin\Debug\net6.0\Sidorova.Lab5.Exercise1.deps.json
+D:\вижуал\Sidorova.Lab5\bin\Debug\net6.0\Sidorova.Lab5.Exercise1.runtimeconfig.json
+D:\вижуал\Sidorova.Lab5\bin\Debug\net6.0\Sidorova.Lab5.Exercise1.dll
+D:\вижуал\Sidorova.Lab5\bin\Debug\net6.0\ref\Sidorova.Lab5.Exercise1.dll
+D:\вижуал\Sidorova.Lab5\bin\Debug\net6.0\Sidorova.Lab5.Exercise1.pdb
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.csproj.AssemblyReference.cache
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.AssemblyInfoInputs.cache
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.AssemblyInfo.cs
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.ImplicitNamespaceImports.cs
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.csproj.CoreCompileInputs.cache
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.dll
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\ref\Sidorova.Lab5.Exercise1.dll
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.pdb
+D:\вижуал\Sidorova.Lab5\obj\Debug\net6.0\Sidorova.Lab5.Exercise1.genruntimeconfig.cache
